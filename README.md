@@ -4,10 +4,10 @@
 > génère automatiquement les visualisations les plus pertinentes — en expliquant chacun
 > de ses choix.
 >
-> 🔗 **[Démo live](https://VOTRE-SPACE.hf.space)** *(à compléter après déploiement)*
+> 🔗 **[Démo live](https://VOTRE-SPACE.hf.space)** 
 
 ![Page d'accueil](assets/hero.png)
-![Page d'accueil](assets/hero22.png)
+![Page d'accueil](assets/hero2.png)
 
 ![Résultat d'analyse](assets/resultat1.png)
 ![Graphique généré automatiquement](assets/resultat2.png)
