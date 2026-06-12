@@ -1,3 +1,11 @@
+---
+title: DashGen
+emoji: 📊
+colorFrom: indigo
+colorTo: blue
+sdk: docker
+pinned: false
+---
 # DashGen — Votre dashboard en 30 secondes
 
 > Déposez un fichier CSV ou Excel : le moteur détecte la structure de vos données et
