@@ -12,7 +12,7 @@ pinned: false
 > génère automatiquement les visualisations les plus pertinentes — en expliquant chacun
 > de ses choix.
 >
-> 🔗 **[Démo live](https://VOTRE-SPACE.hf.space)** 
+> 🔗 **[Démo live](https://Davlamelo-dashgen.hf.space)** 
 
 ![Page d'accueil](assets/hero.png)
 ![Page d'accueil](assets/hero2.png)
